@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
 
 body{
-    background-color:#334752;
+    background-color:#d8d7d4;
     font-family: 'Nerko One', cursive;
     display: flex; 
     flex-direction: column;
@@ -16,10 +16,11 @@ body{
 .canvas{
     width: 1500px;
     height: 700px;
-    background: white;
+    background: #4A655A;
     border-radius: 15px;
     margin-left: 50px;
     border:solid #69371b 20px;
+    cursor: url("img/chalk_white.png"), auto;
     box-shadow: 0 4px 6px rgba(75, 27, 19, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 .controls{
