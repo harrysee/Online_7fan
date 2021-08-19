@@ -1,0 +1,23 @@
+[33mcommit 2cdd28c308b889b84ced9ca39e18a99e78f1ad88[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: iruyj <jeon1310@gmail.com>
+Date:   Thu Aug 19 17:21:06 2021 +0900
+
+    지우개 넣기
+
+[33mcommit f214ca7c1d626603b12d00c10ed85c60291c8e7e[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: iruyj <jeon1310@gmail.com>
+Date:   Thu Aug 19 16:10:40 2021 +0900
+
+    색상에 따른 cursor 변경
+
+[33mcommit 847297d6bbac0b0db320b067282e67c1d8cc6be0[m
+Author: iruyj <jeon1310@gmail.com>
+Date:   Thu Aug 19 12:58:26 2021 +0900
+
+    색상 아이콘 설정
+
+[33mcommit 0222fae90523b18d755f12bf519ba1bde8f6e669[m[33m ([m[1;32mmaster[m[33m)[m
+Author: iruyj <jeon1310@gmail.com>
+Date:   Thu Aug 19 11:24:27 2021 +0900
+
+    init base
