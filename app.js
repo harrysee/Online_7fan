@@ -108,3 +108,9 @@ jsSave.addEventListener('click', function () {
     aTag.href = dataURL;
     aTag.click();
 });
+
+//지우개 눌렀을 때
+document.getElementsByClassName("delete_bg")[0].addEventListener('click', function(){
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    canvas.style.background = "rgb(74, 101, 90)";
+})
